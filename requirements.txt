@@ -1,0 +1,8 @@
+pandas
+langchain
+openai
+langchain_experimental
+python_dotenv
+langchain-community
+langchain_openai
+gunicorn
