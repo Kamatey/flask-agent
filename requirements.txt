@@ -1,3 +1,4 @@
+tabulate
 flask
 pandas
 langchain
